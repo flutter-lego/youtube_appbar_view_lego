@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/youtube_appbar_view_lego.svg)](https://pub.dartlang.org/packages/youtube_appbar_view_lego)
 
 # youtube_appbar_view_lego
-description here
+Youtube appbar view lego for lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -15,6 +15,3 @@ lego create
 ```bash
 lego add youtube_appbar_view_lego
 ```
-
-## Usage
-Usage here
